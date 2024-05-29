@@ -1,0 +1,2 @@
+# QR-Code-Generator
+ JAVASCRIPT/HTML/CSS
